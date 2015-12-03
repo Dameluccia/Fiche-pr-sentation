@@ -1,0 +1,17 @@
+Nom du dossier photo : photo.png
+
+Prénom : Lucie
+
+Nom : Barthes
+
+Date de naissance : 29/12/92
+
+Adresse : Planète
+
+Blog : http://dameluccia@blogspot.com/
+
+Biographie : Lucie, 22 ans, désire être une pro en codage informatique. Jusqu'ici elle a cumulé plusieurs expériences professionnelles lui permettant d'être polyvalente et de s'adapter rapidement à un nouvel environnement. 
+
+Projets pro futurs : Je souhaite travailler dans le secteur du jeu vidéo et m'entourer d'un réseau de passionné pour apprendre et avancer dans ce domaine.
+
+Hobbies : Jeux vidéos, animés, art, gastronomie, voyages...
