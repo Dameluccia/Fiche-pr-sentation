@@ -1,17 +1,37 @@
-Nom du dossier photo : photo.png
+TITRE : NOM PRENOM | Còdi n Camp - Promo 1
 
-Prénom : Lucie
+HEADER : NOM PRENOM - Promo 1
 
-Nom : Barthes
+Nom
 
-Date de naissance : 29/12/92
+Prénom
 
-Adresse : Planète
+Ville
 
-Blog : http://dameluccia@blogspot.com/
+Age
 
-Biographie : Lucie, 22 ans, désire être une pro en codage informatique. Jusqu'ici elle a cumulé plusieurs expériences professionnelles lui permettant d'être polyvalente et de s'adapter rapidement à un nouvel environnement. 
+Email
 
-Projets pro futurs : Je souhaite travailler dans le secteur du jeu vidéo et m'entourer d'un réseau de passionné pour apprendre et avancer dans ce domaine.
+----------------------------------------
 
-Hobbies : Jeux vidéos, animés, art, gastronomie, voyages, blabla...
+Biographie
+
+----------------------------------------
+
+Objectif après Còdi n Camp
+
+----------------------------------------
+
+Projets
+
+	Réalisée
+
+	En cours
+
+----------------------------------------
+
+Loisirs
+----------------------------------------
+
+FOOTER © - Còdi n Camp - 2015 - CC BY SA-NC
+
