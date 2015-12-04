@@ -1,0 +1,35 @@
+header{
+   text-align: center;
+}
+body{
+    color : #777;
+    margin: 90px;
+    font-family: Roboto Slab, Helvetica neue, Helvetica, Arial, sans-serif;
+}
+
+.bg-light-gray{
+    background-color: #f7f7f7;
+}
+
+a {
+  color : #71b43d;
+}
+
+#text-decoration{
+  text-decoration: underline;
+}
+
+h1,h2,h4{
+  color : #333;
+}
+footer {
+    padding: 25px 0;
+    text-align: center;
+}
+ul {
+  list-style-image:url("http://www.starandco.com/images/puce_on.jpg");
+}
+img{
+    width: 200px;
+    float: right;
+}
