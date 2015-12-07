@@ -7,9 +7,9 @@ header{
    margin: 0px;
    font-size: 14pt;
 }
-img{
+#photo{
     width: 200px;
-    float: right;
+
 }
 span{
     margin: 0px;
@@ -36,6 +36,7 @@ nav ul{
     margin: 0px;
     list-style: none;
     display: list-item;
+
 }
 
 nav a{
@@ -68,4 +69,31 @@ h1 {
 footer {
     padding: 25px 0;
     text-align: center;
+}
+
+
+
+/*trombinoscope css*/
+
+.trombi img{
+  display: block;
+}
+.trombi a{
+  text-decoration: none;
+}
+.trombi li{
+  width: 150px;
+  height: 215px;
+  text-align: center;
+  float: left;
+  margin: 15px;
+
+}
+.trombi{
+  list-style-type: none;
+  display: block;
+}
+.trombisection{
+  margin :auto;
+  width: 960px
 }
