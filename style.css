@@ -1,9 +1,9 @@
-.header-def{
+header{
    background-color: #222222;
-   padding-top: 25px;
-   padding-bottom: 25px;
-   padding-left: 25px;
-   padding-right: 25px;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   padding-left: 30px;
+   padding-right: 30px;
    margin: 0px;
    font-size: 14pt;
 }
