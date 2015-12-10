@@ -17,7 +17,7 @@
                 <li><a href="#lien-Bio">Biographie</a></li>
                  <li><a href="#lien-Objectif">Objectif</a></li>
                   <li><a href="#lien-Projets">Projets</a></li>
-                   <li><a href="contact.html">Contact</a></li>
+                   <li><a href="#lien-Contact">Contact</a></li>
                </ul>
          </nav>
       </header>
@@ -85,12 +85,42 @@
        </ul>
      </div>
 </section>
-
+<form action="/back/contact" method="post" class="form">
 <section>
         <div class="center">
        <h2 id="lien-Contact">Contact</h2>
      </div>
 </section>
+
+<div>
+  <input type="hidden" name="to" value="kjlejf@lgjlg.com"/>
+  <label for="nom">Nom :</label>
+  <input type="text" name="nom" id="nom" />
+</div>
+<div>
+  <label for="courriel">Courriel :</label>
+  <input type="email" name="from" id="courriel" />
+</div>
+<div>
+<label for="DateN"> Date de naissance </label>
+<input type="date" name="dateN">
+</div>
+
+<div>
+<br><label for="sex"> Sexe : </label></br>
+<span style="color:#FF69B4"><input type="radio" name="sex"> Fille</span>
+<span style="color:#48D1CC"><input type="radio" name="sex"> Garçon</span>
+</div>
+
+
+<div>
+<label for="message">Message :</label>
+
+<textarea id="message" name="body"></textarea>
+
+<button type="submit">Envoyer</button>
+</div>
+</form>
 
      <footer> © - Còdi n Camp - 2015 - CC BY SA-NC</footer>
     </body>
