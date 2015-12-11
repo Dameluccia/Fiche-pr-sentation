@@ -21,8 +21,9 @@ text-align: center;
 }
 
 section{
-  padding:10px 0;
+  padding:15px 0;
 }
+
 .section3{
   list-style-type: none;
   padding-bottom: 15px;
@@ -87,6 +88,7 @@ body{
 
 .lienvert{
   color : #71b43d;
+  text-decoration: none;
 }
 
 h1,h2,h4{
@@ -103,16 +105,28 @@ footer {
 /*contact*/
 .form {
     /* Pour le centrer dans la page */
-    margin: 0 auto;
+    margin: 15px auto 0 auto;
     width: 400px;
     /* Pour voir les limites du formulaire */
+    margin:auto;
+    width: 250px;
     padding: 1em;
-    border: 1px solid #CCC;
-    border-radius: 1em;
+    border: 2px solid #598e30;
+    border-radius: 2em;
     color: #598e30;
+}
+.button{
+margin-bottom: 15px;
+color: #598e30;
+}
+.messageenvoyer{
+  display: inline-block;
 }
 form div + div {
     margin-top: 2em;
+}
+.hommefemme{
+  display: block;
 }
 
 
